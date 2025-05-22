@@ -1,4 +1,4 @@
-# Erosi-and-Dilasi
+# Erosion & Dilation
 ```python
 import cv2
 import numpy as np
